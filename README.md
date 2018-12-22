@@ -1,1 +1,2 @@
-# predicting_appointment_no_shows
+# Predicting Appointment No-shows
+This project uses Medical Appointment No-shows dataset from https://www.kaggle.com/joniarroba/noshowappointments. Exploratory data analysis was conducted in order to inform subsequent analysis. Both stochastic gradient descent (SGD) and random forest classifiers were used to predict patient no-show status. Principal component analysis (PCA) was used to improve accuracy of classifiers. For more information, see "Final Project Report.pdf".
